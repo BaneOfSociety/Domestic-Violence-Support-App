@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.baneofsociety.helloworld" >
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Step1"
+            android:label="@string/title_activity_step1" >
+        </activity>
+        <activity
+            android:name=".Step2"
+            android:label="@string/title_activity_step2" >
+        </activity>
+        <activity
+            android:name=".Step3"
+            android:label="@string/title_activity_step3" >
+        </activity>
+        <activity
+            android:name=".Step4"
+            android:label="@string/title_activity_step4" >
+        </activity>
+        <activity
+            android:name=".Step5"
+            android:label="@string/title_activity_step5" >
+        </activity>
+        <activity
+            android:name=".Step6"
+            android:label="@string/title_activity_step6" >
+        </activity>
+        <activity
+            android:name=".Step7"
+            android:label="@string/title_activity_step7" >
+        </activity>
+        <activity
+            android:name=".intro"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Final"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example1"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example2"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example3"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example4"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example5"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example6"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example7"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example8"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example9"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example10"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".Example11"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior2"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior3"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".nonechecked"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".nonechecked2"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".nonechecked3"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".yeschecked"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".yeschecked2"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".yeschecked3"
+            android:label="@string/title_activity_intro" >
+        </activity>
+        <activity
+            android:name=".abusivebehavior4"
+            android:label="@string/title_activity_abusivebehavior4" >
+        </activity>
+        <activity
+            android:name=".yeschecked4"
+            android:label="@string/title_activity_yeschecked4" >
+        </activity>
+        <activity
+            android:name=".nonechecked4"
+            android:label="@string/title_activity_nonechecked4" >
+        </activity>
+        <activity
+            android:name=".Example12"
+            android:label="@string/title_activity_example12" >
+        </activity>
+        <activity
+            android:name=".Example13"
+            android:label="@string/title_activity_example13" >
+        </activity>
+        <activity
+            android:name=".Example14"
+            android:label="@string/title_activity_example14" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">HelpHarvard</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_step1">Step1</string>
+    <string name="title_activity_step2">Step2</string>
+
+    <string name="breathing">Take a deep breath...</string>
+    <string name="opening">What\'s your first name?</string>
+    <string name="title_activity_step3">Step3</string>
+    <string name="ThankyouIntro">
+        Hey, %s. Thanks for talking with me.
+        You’ve been dealing with quite a bit, and it took
+        a lot of strength to reach out to me today. \nFirst,
+        I want to make sure you are doing alright.
+    </string>
+    <string name="danger">Are you currently in danger?</string>
+    <string name="title_activity_step4">Step4</string>
+    <string name="encouragement_helpline">
+        I know it can be tough to reach out but please call
+        this number for additional support.
+    </string>
+    <string name="title_activity_step5">Step5</string>
+    <string name="police">
+        Do you want police intervention right now or need medical attention?
+    </string>
+    <string name="title_activity_step6">Step6</string>
+    <string name="call911">
+        Please call 911.
+    </string>
+    <string name="title_activity_step7">Step7</string>
+    <string name="surveyStart">
+        Thanks for answering those questions so I could check in with you.
+        I want to get a better sense of how you\'ve been feeling.
+    </string>
+    <string name="jimmyNumber">817-366-2083</string>
+    <string name="title_activity_intro">IntroAct</string>
+    <string name="moreComplain">If they always complain that something more could be done</string>
+    <string name="complaintResolution"><i>Maybe something more could be done, but that doesn\’t reflect on you as a person.</i></string>
+    <string name="betterThanYou">If they always say that they could have done better than you</string>
+    <string name="betterResolution">
+        <i>Even if they could, which is often unlikely, there
+            are always people who would have done better and worse
+            than you and there is nothing wrong with that.</i>
+    </string>
+    <string name="berating">If they berate you for not satisfying their needs</string>
+    <string name="beratingAnswer"><i>It’s not your responsibility to satisfy all of their needs.</i></string>
+    <string name="control">Do they consistently need to be in charge or control your actions?</string>
+    <string name="monitorCall">If they monitor your phone calls, spending, chores, etc.</string>
+    <string name="privacy"><i>Keep in mind - it is your right to maintain some privacy.</i></string>
+    <string name="bigDecisions">
+        If they claim it is their right to make all the big decisions,
+        treat you like a servant, or control your actions, whether because
+        of their gender, race, or profession
+    </string>
+    <string name="equal"><i>No one, including them, has the right to treat you as less than an equal.</i></string>
+    <string name="whinger">
+        If they agree to go to an event, restaurant
+        or store with you only to incessantly complain
+    </string>
+    <string name="punish">
+        <i>They may have been deliberately making it
+        unpleasant to punish you for getting your way.</i>
+    </string>
+    <string name="jealous">If they act possessive and jealous</string>
+    <string name="notLove">
+        <i>Acting possessive is not a sign of love, it is a sign that
+            someone does not care about your well-being as much as theirs.</i>
+    </string>
+    <string name="accusation">If they make a hurtful remark and then accuse you of misinterpreting</string>
+    <string name="deny">
+        <i>It’s just as likely that you did not misinterpret. Suggesting
+            that you misinterpreted is often a way for someone to deny having
+            said something hurtful.</i>
+    </string>
+    <string name="sook">If they accuse you of over-reacting</string>
+    <string name="bigDeal"><i>It may not be a big deal for them, but it is for you, and you matter just as much.</i></string>
+    <string name="irrational">If they make others believe you are irrational or unstable</string>
+    <string name="goodReason">
+        <i>You’re here thinking about abuse for a reason. Please trust yourself,
+        even if right now it’s only because others ask you to.</i>
+    </string>
+    <string name="falseCompassion">If they act confident and falsely compassionate</string>
+    <string name="image">
+        <i>If they were truly compassionate towards you, you probably wouldn’t
+        be here. Trust their actions more than the image they project.</i>
+    </string>
+    <string name="title_activity_abusivebehavior4">abusivebehavior4</string>
+    <string name="title_activity_yeschecked4">yeschecked4</string>
+    <string name="nvm">I appreciate you sharing your experiences. We realise there
+        may be other types of abuse you’ve experienced that we haven’t covered.
+    </string>
+    <string name="solutions">Having your partner treat you like this
+        sounds like a dark and lonely experience.
+        Thank you for sharing that with us. Let’s talk about some
+        alternative ways of thinking about your situation.
+    </string>
+    <string name="title_activity_nonechecked4">nonechecked4</string>
+    <string name="title_activity_example12">Example12</string>
+    <string name="restriction">If they restrict or prevent your use of the car or other transportation</string>
+    <string name="dangerous"><i>This is dangerous and restrictive behavior, no matter how normal you are told it is.</i></string>
+    <string name="plannedExcuses">
+        If they manufacture situations to prevent you
+        from socializing such as:\n“You’re going to lunch with Sarah on Saturday?
+        Oh tell her you can’t, I’ve been planning a weekend trip for us.”\n
+        “You can’t visit with him because that makes me jealous.”
+    </string>
+    <string name="femaleIntuition">
+        <i>Your intuition is probably right if it tells you the situation is an excuse.</i></string>
+    <string name="jealousy">
+        If they tell you explicitly or implicitly that
+        your friends or family do not care about you or if they provoke
+        jealousies and rivalries
+    </string>
+    <string name="trueFamilyLove">
+        <i>Your friends and family cared about you before you met them,
+        so they almost certainly care about you just as much or more now.</i>
+    </string>
+    <string name="title_activity_example13">Example13</string>
+    <string name="title_activity_example14">Example14</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

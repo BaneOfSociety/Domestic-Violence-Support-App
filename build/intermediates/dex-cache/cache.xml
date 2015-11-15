@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/OldAdmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6c89c7967ffae1d8d275c6eeedbaa7d889a2a468.jar" />
+    </item>
+    <item
+        jar="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/classes-e2e82f06190c34ab0760712dcbc04793f087c325.jar" />
+    </item>
+    <item
+        jar="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/classes-11609c3b56960c38d31ee678461e092a2765ac39.jar" />
+    </item>
+    <item
+        jar="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/OldAdmin/AndroidStudioProjects/HelloWorld/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4e2d029e200e4493a1e50c587211f43ae8bc1900.jar" />
+    </item>
+
+</items>
